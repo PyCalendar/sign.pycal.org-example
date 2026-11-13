@@ -1,0 +1,7 @@
+https://sign.pycal.org/project/PyCalendar/icalendar/
+
+This seems to have been added for some reason but I do not know why.
+
+Yet the page shows a 404 and the todos show that the repository does not have a config.
+
+i.e. why is it in this state?

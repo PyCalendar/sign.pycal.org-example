@@ -16,5 +16,7 @@ en un repositorio que pida este acuerdo:
 4. **Respeto las licencias.** No envío código o texto generado si tengo motivos para
    creer que copia obras bajo una licencia incompatible.
 5. **Hago pruebas.** Los cambios vienen con pruebas, y las he ejecutado.
+6. **Mantengo los secretos fuera de los prompts.** Ni contraseñas, ni tokens, ni
+   claves, ni míos ni de otras personas.
 
 Quienes mantienen el proyecto pueden cerrar pull requests que no sigan esta política.

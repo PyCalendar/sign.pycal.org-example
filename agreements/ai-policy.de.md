@@ -16,5 +16,7 @@ den ich in einem Repository öffne, das diese Vereinbarung verlangt, Folgendem z
 4. **Ich achte Lizenzen.** Ich reiche keinen erzeugten Code oder Text ein, von dem ich
    Grund zur Annahme habe, dass er Werke unter einer unverträglichen Lizenz kopiert.
 5. **Ich teste.** Änderungen kommen mit Tests, und ich habe sie ausgeführt.
+6. **Geheimnisse bleiben aus den Prompts.** Keine Passwörter, Tokens oder Schlüssel,
+   weder meine noch die anderer.
 
 Maintainer dürfen Pull Requests schließen, die dieser Richtlinie nicht folgen.

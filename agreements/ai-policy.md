@@ -15,5 +15,8 @@ open in a repository that asks for this agreement:
 4. **I respect licenses.** I do not submit generated code or text that I have
    reason to believe copies work under an incompatible license.
 5. **I test.** Changes come with tests, and I have run them.
+6. **I keep secrets out of prompts.** I do not give AI tools passwords, tokens,
+   keys or personal data of other people, and I remove them from recorded prompts
+   before they are committed.
 
 Maintainers may close pull requests that do not follow this policy.
